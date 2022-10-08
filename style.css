@@ -1,0 +1,172 @@
+.button {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+
+.middle {
+    text-align: center;
+    width: 553px;
+    height: 150px;
+    margin: 100px;
+}
+
+
+
+p { 
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 31px;
+text-align: center;
+margin: 80px;
+
+color: #000000;
+}
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+.about {
+    width: 515px;
+height: 132px;
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 44px;
+text-align: center;
+color: #000000;
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+position: absolute;
+width: 535px;
+height: 152px;
+left: 453px;
+top: 447px;
+
+}
+
+
+.circle {
+position: relative;
+display: block;
+width: 464px;
+height: 464px;
+left: 488px;
+top: 280px;
+background: #F3BC42;
+filter: blur(125px);
+}
+
+.navigation {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: baseline;
+padding: 0px;
+gap: 35px;
+position: absolute;
+width: 280px;
+height: 62px;
+left: 1118px;
+top: 50px;
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 55px;
+    left: 10px;
+    top: 10px;
+    font-family: 'Crimson Text';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 55px;
+}
+
+.about1 {
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+position: absolute;
+width: 553px;
+height: 221px;
+left: 444px;
+top: 893px;
+width: 553px;
+height: 155px;
+
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+}
+
+.Work1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    
+    position: absolute;
+    width: 553px;
+    height: 97px;
+    left: 444px;
+    top: 1182px;
+
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+}
+
+.Contact1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    
+    position: absolute;
+    width: 553px;
+    height: 190px;
+    left: 444px;
+    top: 1347px;
+    
+
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+}
